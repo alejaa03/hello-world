@@ -7,5 +7,5 @@ function showWelcome() {
 }
 
 function showInstructions() {
-    alert("Instructions! Instrucciones! Anweisungen");
+    alert('Instructions! Instrucciones! Anweisungen');
 }
