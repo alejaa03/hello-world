@@ -22,6 +22,10 @@ html{
     margin: 0;
 }
 
+h2 {
+    background-color: violet; 
+    color: white;   
+}
 p,h2{
     color: limegreen;
 }
