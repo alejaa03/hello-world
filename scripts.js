@@ -1,3 +1,3 @@
 function showMessage(){
-    alert("Hello world! Hola mundo!");
+    alert("Hello world! Hola mundo! Hallo welt!");
 }
